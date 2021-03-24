@@ -1,0 +1,30 @@
+.screen-header_icons {
+  position: relative;
+}
+
+.screen-header_notice {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+}
+
+.find-icons {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: var(--horizontal-space);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.find-icons_icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.find-icons_icon i {
+  font-size: 35px;
+}
+
+.find-icons_icon span {
+  margin-top: 18px;
+}

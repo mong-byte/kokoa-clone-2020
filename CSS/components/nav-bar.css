@@ -25,10 +25,6 @@
 }
 
 .nav_dots {
-  background-color: tomato;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
   position: absolute;
   left: 35px;
   bottom: 30px;
